@@ -1,0 +1,2 @@
+06-04-2014 15:12:23 - ERROR - 44,8 MB - mail> Could not instantiate mail function.
+06-04-2014 22:12:51 - ERROR - 47,7 MB - mail> Could not instantiate mail function.
